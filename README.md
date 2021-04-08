@@ -1,4 +1,4 @@
-# rust-rocket-api-real-estate-demo
+# Rust Rocket API Real Estate Demo
 
 API to demonstrate a simple REST API using Rocket + Rust
 
